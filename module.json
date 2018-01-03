@@ -1,8 +1,8 @@
 {
   "name": "microbit-dal",
-  "version": "2.0.0-rc9",
+  "version": "2.0.0-edison",
   "license": "MIT",
-  "description": "The runtime library for the BBC micro:bit, developed by Lancaster University",
+  "description": "The runtime library for the BBC micro:bit, developed by Lancaster University, modified by Edison",
   "keywords": [
     "mbed-classic",
     "microbit",
@@ -12,7 +12,7 @@
     "University"
   ],
   "author": "Joe Finney <j.finney@lancaster.ac.uk (mailto:j.finney@lancaster.ac.uk) >",
-  "homepage": "https://github.com/lancaster-university/microbit-dal/",
+  "homepage": "https://github.com/panjh/microbit-dal/",
   "dependencies": {
     "mbed-classic": "panjh/mbed-classic",
     "ble": "lancaster-university/BLE_API#v2.5.0+mb3",
