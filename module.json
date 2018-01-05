@@ -15,9 +15,9 @@
   "homepage": "https://github.com/panjh/microbit-dal/",
   "dependencies": {
     "mbed-classic": "panjh/mbed-classic#2.0.0-edison",
-    "ble": "lancaster-university/BLE_API#v2.5.0+mb3",
-    "ble-nrf51822": "lancaster-university/nrf51822#v2.5.0+mb7",
-    "nrf51-sdk": "lancaster-university/nrf51-sdk#v2.2.0+mb4"
+    "ble": "panjh/BLE_API#2.0.0-edison",
+    "ble-nrf51822": "panjh/nrf51822#2.0.0-edison",
+    "nrf51-sdk": "panjh/nrf51-sdk#2.0.0-edison"
   },
   "extraIncludes": [
     "inc/core",
